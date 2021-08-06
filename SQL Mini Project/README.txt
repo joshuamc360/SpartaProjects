@@ -1,0 +1,3 @@
+In our second week of Sparta training, we produced a SQL project. This tested our knowledge of basic and intermediate SQL commands. We used a range of DDL commands and DML to query the Northwind database for online orders. 
+
+This database had a range of tables that contained data about products that were ordered from a supplier to the customer. We used commands like JOINS and GROUP BY to gather data from these tables and display them to the user. The result from some queries was imported to excel to create charts. 

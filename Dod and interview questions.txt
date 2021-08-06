@@ -1,0 +1,12 @@
+DOD.
+Acceptance test written and passed.
+Code to be written.
+Code to be tested on for systems and users. 
+Documentation for system and customer to be produced.
+System delivered to cu
+
+Are the question sets for the user to choose or for the admins to add?
+4 question sets for the user to choose. coding, logic reasoning, pyschometric, mallenous. Minimum of 10 question.
+
+Is there a specific format you would like to input the questions? (Categories question type, question).
+multiple choice and text. 
